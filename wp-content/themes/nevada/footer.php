@@ -57,7 +57,7 @@ $class = ($footerwidgets == '0' ? 'noborder' : 'normal'); ?>
                    
 				    <?php if(!empty($copyright)) : ?>
 					
-					Powered by <a href="<?php echo $copyrightlink; ?>"><?php echo $copyright; ?></a>
+					Created by <a href="http://www.claymoredesigns.com/" target="_blank">Claymoredesign</a>
 					
 					<?php endif; ?>
 					
