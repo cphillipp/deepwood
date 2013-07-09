@@ -3430,3 +3430,11 @@ a.email-author{
 #footer .rev_slider_wrapper {
 	margin-bottom:20px !important;
 }
+
+/* CUSTOM */
+.tp-button.custom, .tp-button:hover.custom, .purchase.custom, .purchase:hover.custom {
+background-color: #572c0c;
+-webkit-box-shadow: 0px 3px 0px 0px #693916;
+-moz-box-shadow: 0px 3px 0px 0px #693916;
+box-shadow: 0px 3px 0px 0px #693916;
+}
