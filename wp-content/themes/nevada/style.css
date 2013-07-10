@@ -3438,3 +3438,4 @@ a.email-author{
 .purchase:hover.custom 	{background-color: #0d2352; -webkit-box-shadow: 0px 3px 0px 0px #1a439b; -moz-box-shadow: 0px 3px 0px 0px #1a439b; box-shadow: 0px 3px 0px 0px #1a439b;}
 .nav-wrap 				{background-color: #eee; border-bottom: 2px solid #693916;}
 #navigation ul li a 	{height: 50px; line-height: 50px;}
+#header 				{padding:0px 0 0 0;}
