@@ -3440,3 +3440,38 @@ a.email-author{
 #navigation ul li a 	{height: 50px; line-height: 50px;}
 #header 				{padding:0px 0 0 0;}
 .mm-trigger 			{color:#FFF; background:#0d2352;}
+a.button, a.woo-button, button.button, input.button, #respond input#submit, #content input.button {
+cursor: pointer;
+-moz-box-shadow: inset 0px 1px 0px 0px #000;
+-webkit-box-shadow: inset 0px 1px 0px 0px #000;
+box-shadow: inset 0px 1px 0px 0px #000;
+background: -webkit-gradient( linear, left top, left bottom, color-stop(0.05, #693916), color-stop(1, #512505) );
+background: -moz-linear-gradient( center top, #693916 5%, #512505 100% );
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#512505');
+-moz-border-radius: 6px;
+-webkit-border-radius: 6px;
+border-radius: 6px;
+border: 1px solid #000000;
+display: inline-block;
+font-family: arial;
+font-size: 15px;
+font-weight: normal;
+padding: 5px 10px;
+text-decoration: none;
+text-shadow: 1px 1px 0px #000000;
+-webkit-appearance: none;
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+box-sizing: border-box;
+-moz-background-clip: padding;
+-webkit-background-clip: padding;
+background-clip: padding-box;
+margin-top: 14px;
+color: #eeeeee !important;
+}
+a.button:hover, a.woo-button:hover, button.button:hover, input.button:hover, #respond input#submit:hover, #content input.button:hover {
+background: -webkit-gradient( linear, left top, left bottom, color-stop(0.05, #512505), color-stop(1, #693916) );
+background: -moz-linear-gradient( center top, #512505 5%, #693916 100% );
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f6f6f6', endColorstr='#693916');
+color: #eeeeee;
+}
