@@ -3437,6 +3437,7 @@ a.email-author{
 .purchase.custom, 
 .purchase:hover.custom 	{background-color: #693916; -webkit-box-shadow: 0px 3px 0px 0px #512505; -moz-box-shadow: 0px 3px 0px 0px #512505; box-shadow: 0px 3px 0px 0px #512505;}
 .nav-wrap 				{background-color: #eee; border-bottom: 2px solid #693916;}
+#lambda-featured-header-wrap {border-bottom: 2px solid #693916;}
 #navigation ul li a 	{height: 50px; line-height: 50px;}
 #header 				{padding:0px 0 0 0;}
 .mm-trigger 			{color:#FFF; background:#0d2352;}
