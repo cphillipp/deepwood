@@ -3439,6 +3439,7 @@ a.email-author{
 .nav-wrap 				{background-color: #eee; border-bottom: 2px solid #693916;}
 #lambda-featured-header-wrap {border-bottom: 2px solid #693916;}
 #navigation ul li a 	{height: 50px; line-height: 50px;}
+#navigation ul ul li 	{background:#FFF;}
 #header 				{padding:0px 0 0 0;}
 .mm-trigger 			{color:#FFF; background:#333333;}
 
